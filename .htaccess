@@ -1,0 +1,2 @@
+php_value mssql.textlimit 100000000000
+php_value mssql.textsize 100000000000
